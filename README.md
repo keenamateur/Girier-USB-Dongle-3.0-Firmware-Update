@@ -8,7 +8,7 @@
 
 ---
 
-**Note:** This is **NOT original Girier firmware**. This repository contains **LINCUKOO G91E-ZH** type firmware that I successfully flashed onto my Girier USB dongle for update.
+**Note:** This is **NOT original Girier firmware**. This repository contains **GZ91** type firmware that I successfully flashed onto my Girier USB dongle for update.
 
 ## 📁 Firmware Files
 
