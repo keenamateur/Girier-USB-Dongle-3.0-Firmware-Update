@@ -44,7 +44,8 @@ For flashing, use [SecureCRT](https://www.vandyke.com/products/securecrt/).
 5. Push **1** for upload GBL
 6. Countdown starts - you have 1 minute!
 7. Push **"Send Xmodem"** under Transfer tab
-8. **Enjoy!**
+8. **"Choose your weapon"**
+9. **Enjoy!**
 
 **Disclaimer:** Flash at your own risk.
 - **"Works on my machine!™"**
