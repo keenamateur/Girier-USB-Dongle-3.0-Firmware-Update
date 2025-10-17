@@ -19,7 +19,7 @@ All firmware files are located in the `/firmware` directory.
 | `Dongle_OTA744.gbl` | Zigbee Coordinator firmware |
 | `Dongle_OTA803.gbl` | Zigbee Coordinator firmware |
 | `Repeater_OTA743.gbl` | Zigbee Repeater firmware |
-| `Thread_OTA_731.glb` | Thread protocol firmware |
+| `Thread_OTA_731.gbl` | Thread protocol firmware |
 
 ---
 <img width="330" height="225" alt="Screenshot 2025-10-18 000429" src="https://github.com/user-attachments/assets/80499487-eee6-47af-9fa6-6323ec544690" />
