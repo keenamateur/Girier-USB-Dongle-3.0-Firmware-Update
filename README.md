@@ -1,6 +1,6 @@
 # Girier Zigbee USB 3.0 Dongle Firmware
 
-- **"Flashing this may turn your dongle into a very expensive paperweight. You've been warned!"**
+- **"Flashing this may turn your dongle into a "very" expensive paperweight. You've been warned!"**
 
 **Firmware files and flashing instructions for Girier Zigbee USB 3.0 Dongle**
 
